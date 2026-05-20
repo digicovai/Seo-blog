@@ -134,7 +134,3 @@ After generation, you'll receive:
 ```
 /mnt/skills/user/seo-blog/SKILL.md
 ```
-
----
-
-*Built for Claude · SEO Blog Skill v1*
