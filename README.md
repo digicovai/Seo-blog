@@ -1,4 +1,4 @@
-# SEO Blog Skill — README
+# SEO Blog Skill
 
 A guided, step-by-step blog creation skill for Claude.
 Uses a Formula + Prompt system with automatic engagement hook selection from the Hook Playbook.
